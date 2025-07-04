@@ -1,10 +1,11 @@
-# powerbi-rapports
-exports PDF de mes rapports Power BI
 
 # 📊 Power BI – Rapports & Analyses
 
 Bienvenue sur mon dépôt GitHub dédié à mes travaux Power BI. Vous y trouverez des rapports interactifs, des modèles de données, des fichiers PBIX, ainsi que des scripts de préparation de données.
 
+# 📊 Projet de Fin de Formation – Datasuits
+
+Bienvenue dans ce projet de fin de formation réalisé dans le cadre du programme Datasuits. Ce projet a pour objectif de démontrer la maîtrise des outils d’analyse de données à travers une étude de cas réelle et contextualisée.
 
 # 📊 Power BI – Rapports & Analyses
 
