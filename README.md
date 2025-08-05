@@ -51,11 +51,6 @@ Cela permet de :
 
 ---
 
-## 📸 Aperçu
-
-> *Ajoutez ici une capture d’écran ou un lien vers un rapport publié (Power BI Service ou image statique)*
-
----
 
 ## 📤 Export PDF
 
