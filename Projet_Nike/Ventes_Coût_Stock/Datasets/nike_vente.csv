@@ -1,0 +1,1001 @@
+id_vente,id_produit,quantite_vendue,date_vente,pays_vente,ville_vente,chiffre_affaires
+1,AS783,0,2023-05-29,Bosnia and Herzegovina,Paulberg,0.0
+2,AC931,1,2023-04-16,Serbia,South Samantha,83.02
+3,CB960,50,2023-05-16,Marshall Islands,South Katie,6071.0
+4,VT864,6,2023-06-10,Uzbekistan,Myersfurt,833.22
+5,AS233,80,2023-01-03,Dominica,North Jerry,16444.8
+6,VT185,17,2023-02-05,Dominica,South Tinaburgh,2813.84
+7,VS697,7,2023-10-03,Saint Pierre and Miquelon,West Jessica,1384.04
+8,CR305,90,2023-03-26,Cote d'Ivoire,East David,18638.1
+9,AC303,32,2023-07-01,San Marino,Bakerborough,6362.88
+10,CF942,28,2023-12-31,Mali,Stevefurt,2390.92
+11,CF758,6,2023-08-28,Czech Republic,Ramirezmouth,1454.82
+12,CB252,5,2023-08-07,Uruguay,Robertfort,397.9
+13,VS557,3,2023-03-04,Oman,Lake Laura,152.13
+14,CR514,16,2023-11-19,Slovakia (Slovak Republic),South Brentland,1502.24
+15,CB775,17,2023-06-16,Uzbekistan,Port Allen,3748.5
+16,VT794,12,2023-10-13,Malta,South Richard,1916.4
+17,VS684,26,2023-10-03,Montserrat,Millerside,7128.68
+18,CR455,45,2023-10-19,Finland,South Anthony,6851.7
+19,AC593,28,2023-11-21,Cambodia,Michaelton,2401.28
+20,AS785,27,2023-11-29,Tonga,North Cindy,6617.97
+21,AS915,30,2023-12-10,French Southern Territories,Lake Ruth,6172.5
+22,CF241,19,2023-02-12,Kuwait,South Peterland,1033.6
+23,VT766,8,2023-12-20,Rwanda,Michaelville,563.44
+24,AC349,14,2023-10-21,Guernsey,North Christymouth,3158.26
+25,AC981,34,2023-04-14,Luxembourg,Lake Karen,2684.98
+26,AC733,43,2023-05-12,Georgia,Jonesshire,5387.04
+27,CF920,31,2023-07-01,Monaco,New Jeffreychester,3909.72
+28,VT681,36,2023-01-27,Iceland,Scottberg,10332.36
+29,AC118,17,2023-01-24,Rwanda,North Sydney,4111.96
+30,AC273,8,2023-08-12,British Indian Ocean Territory (Chagos Archipelago),Bernardberg,1953.36
+31,VS581,75,2023-01-24,Saint Martin,Solismouth,21585.75
+32,VT190,5,2023-03-31,Poland,East Amber,1198.95
+33,VS585,11,2023-02-05,Kazakhstan,Michaelstad,2443.32
+34,AC650,13,2023-03-03,Falkland Islands (Malvinas),Port Garyville,3114.8
+35,VS714,4,2023-08-04,French Southern Territories,West Marcus,541.44
+36,VS348,45,2023-04-20,Malawi,Jonesland,7855.65
+37,VT367,31,2023-06-23,Luxembourg,Angelaborough,3868.8
+38,CR691,0,2023-10-15,Cocos (Keeling) Islands,Ronaldport,0.0
+39,AS543,38,2023-06-18,Vanuatu,North Andrea,4946.84
+40,AC260,35,2023-10-15,Trinidad and Tobago,Walterland,8980.65
+41,VT156,24,2023-09-05,Kenya,Lake Margarettown,4459.92
+42,CR488,8,2023-03-11,Belize,Harrisborough,733.36
+43,CF812,17,2023-12-18,Pitcairn Islands,Andersonchester,3327.07
+44,AC837,72,2023-03-03,Belarus,North Danielfurt,14881.68
+45,CB204,12,2023-05-19,Kenya,Gordonstad,1336.44
+46,CB413,54,2023-10-29,British Indian Ocean Territory (Chagos Archipelago),Maysmouth,14749.02
+47,AS750,36,2023-11-23,Israel,Franklinfurt,8845.56
+48,CR714,3,2023-10-14,Saint Helena,Aaronport,802.4100000000001
+49,CB133,3,2023-03-29,Luxembourg,Ryanport,266.91
+50,VS993,78,2023-09-30,Comoros,North Christopher,22181.64
+51,AC448,32,2023-07-10,Congo,Charlesshire,8443.52
+52,CR482,17,2023-10-14,Guinea,North Elizabeth,2160.36
+53,AC715,43,2023-02-26,Saint Lucia,Kerryton,5590.860000000001
+54,AC534,5,2023-03-30,Indonesia,Lake Susanton,460.15
+55,CF749,14,2023-05-19,Costa Rica,West Brandi,1150.24
+56,VS153,56,2022-12-31,Lesotho,North Brandyfort,12722.64
+57,AC687,10,2023-10-14,Holy See (Vatican City State),Perkinsburgh,715.9000000000001
+58,AS597,8,2023-09-29,Singapore,North Davidton,473.6
+59,VT332,12,2023-02-10,Botswana,Port Stacyfurt,1716.6
+60,CF567,94,2023-08-02,Turkey,Thomasshire,18457.84
+61,VS525,24,2023-10-14,Togo,Johnsonchester,4025.52
+62,CB689,0,2023-08-30,Indonesia,Brianmouth,0.0
+63,AC774,28,2023-01-23,British Indian Ocean Territory (Chagos Archipelago),Gordonview,6303.639999999999
+64,AC429,50,2023-04-01,French Polynesia,East Manuel,5872.5
+65,CB777,10,2023-10-28,Guinea-Bissau,West Johnland,1020.9
+66,VS591,30,2023-11-15,Saint Barthelemy,New Teresabury,3530.4
+67,AC919,1,2023-12-14,Taiwan,Lopezchester,194.0
+68,AC968,43,2023-02-10,Congo,Albertmouth,5429.18
+69,CR717,6,2023-01-14,Wallis and Futuna,East Scott,556.92
+70,VT381,15,2023-07-21,Grenada,West Teresaview,4393.05
+71,VT688,17,2023-05-02,Bosnia and Herzegovina,New Bethanyshire,4753.71
+72,CF357,43,2023-01-04,Cocos (Keeling) Islands,South Joshua,10024.59
+73,AS968,0,2023-11-16,Ecuador,Kevinchester,0.0
+74,CB233,47,2023-01-15,Nicaragua,Morganborough,13723.53
+75,VS504,23,2023-08-13,South Africa,Edwardsport,6635.959999999999
+76,AC386,6,2023-06-12,Botswana,Bairdland,527.64
+77,VS195,37,2023-01-20,Azerbaijan,New Brandonton,9407.62
+78,AS718,7,2023-04-05,British Virgin Islands,Smithfort,1106.49
+79,VT992,31,2023-11-26,Austria,Mccartyfurt,4019.15
+80,CF302,10,2023-07-08,Comoros,Whitechester,2165.9
+81,CR372,5,2023-06-18,Guernsey,Riverafort,1140.15
+82,CR720,63,2023-04-02,Norway,Susanville,15964.83
+83,VS355,63,2023-10-01,Maldives,New Lindsayborough,8082.900000000001
+84,CF202,12,2023-05-31,Yemen,South Jacob,1944.84
+85,AC264,5,2023-04-18,Monaco,Priceshire,323.45
+86,CB679,11,2023-01-15,Belgium,North Justin,1652.75
+87,VS154,47,2023-09-06,Niue,North Jeffrey,11132.42
+88,VT833,38,2023-01-19,Malawi,North Penny,10929.56
+89,CB434,11,2023-01-04,Italy,North John,3243.13
+90,VT735,3,2023-08-30,Armenia,Reginaport,465.4500000000001
+91,VT316,66,2023-10-28,Western Sahara,New Ashleybury,7230.96
+92,AC539,7,2023-06-09,Mauritania,New Lisafort,1008.98
+93,CR562,34,2023-10-16,Mayotte,Higginsside,4449.58
+94,CF197,15,2023-05-02,Moldova,Moralesfurt,4103.4
+95,CR846,14,2023-03-06,Tajikistan,Lake Heatherton,1794.66
+96,AS599,26,2023-09-24,Marshall Islands,South Jackborough,5198.7
+97,AS643,69,2023-05-25,Norway,Roberttown,4328.37
+98,VS433,32,2023-11-11,Slovakia (Slovak Republic),North Carolshire,6927.36
+99,CR605,10,2023-12-29,Holy See (Vatican City State),Adammouth,1369.6
+100,VS916,28,2023-10-09,Samoa,New Scott,8076.599999999999
+101,AS864,14,2023-07-05,Cape Verde,South Peter,2671.2000000000003
+102,CR522,35,2023-09-26,France,Meghanfurt,6030.5
+103,VS733,5,2023-01-15,Norway,Perryton,1175.85
+104,VS613,10,2023-11-30,Falkland Islands (Malvinas),Michaelchester,2292.4
+105,VT947,1,2023-01-01,United States of America,Davisborough,197.84
+106,CB833,18,2023-04-26,Turks and Caicos Islands,Lake Paul,4494.06
+107,CB116,0,2023-08-04,Ethiopia,East Jessicaville,0.0
+108,CB892,3,2023-09-19,Bhutan,Port Christian,714.36
+109,VS865,52,2023-06-11,Kyrgyz Republic,North Brendamouth,7408.44
+110,AC520,0,2023-04-18,Turkey,Jennifershire,0.0
+111,VT194,42,2023-07-05,Romania,Shawshire,2607.36
+112,VS693,51,2023-10-23,Hong Kong,Berrymouth,13049.88
+113,CR967,51,2023-01-01,Uzbekistan,Watkinsfort,9468.66
+114,VS447,13,2023-03-01,Tunisia,Vanessaton,3466.19
+115,AS631,10,2023-06-17,Korea,Lake Emily,1992.9
+116,VS329,6,2023-12-16,Burkina Faso,Port Sean,1580.52
+117,AC681,74,2023-05-20,Cocos (Keeling) Islands,Port Patriciamouth,5555.179999999999
+118,AC855,5,2023-11-23,Estonia,North Scott,1311.6999999999998
+119,AC723,17,2023-11-03,Anguilla,Kevinberg,4018.63
+120,AS556,10,2023-12-01,Antigua and Barbuda,Macdonaldstad,2964.7000000000003
+121,CF513,39,2023-12-21,Gabon,Port Laura,3355.5600000000004
+122,AC271,43,2023-07-22,Spain,New Victoria,3135.56
+123,VS182,30,2023-07-28,Kenya,Ericaborough,4741.8
+124,AC617,7,2023-08-05,Algeria,New Steven,1108.1
+125,CB185,0,2023-03-04,Samoa,Henryfort,0.0
+126,AC897,8,2023-07-15,Hungary,North Tracychester,1877.76
+127,AC365,1,2023-12-29,Puerto Rico,Martinezview,276.77
+128,VS178,1,2023-12-29,Italy,Lake Noahfort,172.54
+129,VS305,35,2023-09-30,Lesotho,Kathrynton,4670.4
+130,AC485,59,2023-02-03,Austria,Harryland,7012.15
+131,VS707,22,2023-07-31,Bolivia,Royland,3393.72
+132,AC748,14,2023-02-14,Madagascar,Hendricksland,2211.16
+133,AC797,7,2023-10-23,Burundi,Brandonbury,1728.86
+134,CF772,11,2023-07-30,Liechtenstein,North Jennyfurt,2273.92
+135,VS414,16,2023-09-05,Bosnia and Herzegovina,Mckenzieton,2652.48
+136,VS827,11,2023-09-08,Iceland,North Sarahside,2706.66
+137,CR204,39,2023-08-11,French Polynesia,Lake William,3274.83
+138,CF864,68,2023-01-27,Qatar,Baileyberg,14467.68
+139,AS266,13,2023-06-17,Austria,Joshuachester,2195.96
+140,VT654,75,2023-03-23,Paraguay,New Holly,7546.5
+141,VS182,1,2023-08-06,Armenia,Heatherton,245.08
+142,VT613,3,2023-11-16,Guinea-Bissau,South Adamton,239.16
+143,AC608,0,2023-10-26,Saint Kitts and Nevis,South Charlotte,0.0
+144,AC722,27,2023-02-22,Papua New Guinea,Jenniferfort,7050.51
+145,CF646,0,2023-12-10,Latvia,Castilloland,0.0
+146,CB197,31,2023-05-01,Antarctica (the territory South of 60 deg S),Josephmouth,5247.68
+147,CF851,24,2023-03-20,Andorra,East Christianstad,5056.32
+148,AC450,76,2023-11-08,Libyan Arab Jamahiriya,Wilsonmouth,19235.6
+149,AS154,4,2023-08-25,Bouvet Island (Bouvetoya),Walkerburgh,1019.6
+150,VS798,6,2023-11-21,Tokelau,Elizabethland,1695.54
+151,VT423,2,2023-12-02,Czech Republic,West Michael,193.7
+152,CF655,54,2023-02-16,Turkmenistan,North Johnview,7859.16
+153,VT681,16,2023-08-03,Peru,Lisastad,1738.72
+154,CB697,4,2023-09-08,Korea,Davidsonstad,1037.76
+155,VS187,51,2023-05-02,Malaysia,West Hannah,3471.06
+156,VT624,24,2023-05-25,Romania,New William,6913.68
+157,VS363,2,2023-03-08,Equatorial Guinea,Robertport,481.08
+158,VT553,11,2023-02-14,Mauritania,East Kaylaport,2819.96
+159,VT845,25,2023-06-16,Solomon Islands,New Amber,4239.75
+160,AS174,10,2023-02-08,Zambia,Franktown,2839.5
+161,VS967,45,2023-11-30,Dominican Republic,New Misty,12657.15
+162,AC744,21,2023-04-18,Malta,Wilsonport,2856.63
+163,CR953,6,2023-08-22,Japan,Lake Amyberg,1558.8000000000002
+164,CF299,30,2023-01-13,Czech Republic,West Heatherfort,2860.5
+165,AC794,7,2023-03-21,Reunion,Markbury,836.5
+166,CB218,0,2023-07-30,Turkey,Brendaport,0.0
+167,AS457,2,2023-02-11,Honduras,West Scottton,158.2
+168,VT128,9,2023-09-20,Costa Rica,South Kevin,976.14
+169,AC946,59,2023-04-01,Senegal,New Kerristad,13544.63
+170,CB187,0,2023-01-30,United States of America,New Rachel,0.0
+171,VS796,2,2023-10-10,Tunisia,Lake Jennifer,411.04
+172,VT276,19,2023-08-25,Nicaragua,Parkershire,1553.44
+173,AC319,2,2023-10-17,Bahamas,Lake Tamara,321.02
+174,AC893,78,2023-01-15,Spain,South Candicebury,10920.78
+175,VT101,22,2023-04-04,Dominican Republic,Bradleymouth,5644.1
+176,CF238,23,2023-07-07,Eritrea,Heathershire,5051.030000000001
+177,CF157,13,2023-07-25,Korea,Mooneyport,2888.86
+178,CF836,4,2023-01-14,Togo,Russellshire,639.32
+179,VT993,13,2023-11-16,Papua New Guinea,South Connieville,3538.34
+180,VS798,5,2023-10-12,Bolivia,South Hannah,589.55
+181,CF539,10,2023-11-02,Germany,Colemanburgh,945.8
+182,CR582,5,2023-04-15,British Virgin Islands,Ellisville,1396.45
+183,CB769,55,2023-10-06,Mauritania,Karamouth,5021.5
+184,VS888,25,2023-04-23,Montenegro,East Jesusview,5570.0
+185,VT496,16,2023-01-04,Burundi,New Felicia,3555.04
+186,AS986,23,2023-03-29,New Zealand,Danielbury,5234.8
+187,VS251,35,2023-01-30,Guam,Lake Kaylabury,2178.4
+188,CR731,52,2023-08-16,South Africa,Port Donnaville,13924.04
+189,VS498,54,2023-12-02,New Caledonia,Harpershire,14873.76
+190,VT594,55,2023-08-19,Netherlands Antilles,Schmittberg,9045.85
+191,CB475,54,2023-12-18,Antigua and Barbuda,Spenceville,14694.48
+192,CB797,20,2023-09-21,Guernsey,Gallegostown,4445.0
+193,VS858,29,2023-03-25,El Salvador,New Tylerbury,4555.61
+194,VT434,71,2023-05-05,Hong Kong,Port April,12205.61
+195,CR828,60,2023-02-25,Myanmar,Melissamouth,11713.2
+196,AC627,1,2023-05-22,Hungary,New Judy,254.6
+197,AS116,46,2023-10-26,United Arab Emirates,Lake Bryanberg,7882.56
+198,AC783,11,2023-08-01,Korea,Phillipfurt,1784.86
+199,VS489,4,2023-03-11,Bosnia and Herzegovina,Jenniferbury,454.68
+200,AS109,6,2023-05-23,Poland,Port Barbarachester,1314.24
+201,VT107,0,2023-11-26,Mongolia,New William,0.0
+202,CB420,24,2023-05-21,Honduras,Port Lisashire,1259.76
+203,VS363,19,2023-05-22,Saint Pierre and Miquelon,Jamiemouth,2739.61
+204,AS905,11,2023-01-07,Estonia,East Karinaville,1920.16
+205,AC441,5,2023-09-30,Cyprus,South Gabrielleborough,1245.05
+206,CB104,73,2023-10-09,Holy See (Vatican City State),Stevenmouth,10259.42
+207,AS371,2,2023-10-22,Lebanon,Boonechester,105.62
+208,VT403,42,2023-08-07,Germany,New Emilyberg,5677.98
+209,VT245,30,2023-08-24,French Polynesia,Wilsonport,8784.0
+210,VS896,30,2023-11-14,Algeria,North Scott,7530.9
+211,CB676,21,2023-07-10,Netherlands,West Jessica,2803.92
+212,CR493,48,2023-08-10,Djibouti,Smithchester,4166.88
+213,AC173,60,2023-02-17,Western Sahara,Meganchester,17839.8
+214,VS388,6,2023-08-01,Zimbabwe,West Stephanie,327.78000000000003
+215,CB670,3,2023-10-13,French Guiana,Whiteshire,709.74
+216,VT350,48,2023-05-24,Cape Verde,South Stephanie,2772.0
+217,AS837,64,2023-11-23,French Southern Territories,East Jonathanbury,13099.52
+218,VS480,50,2023-04-22,Andorra,Melissahaven,7584.5
+219,CF874,38,2023-02-15,Togo,Donnaview,11255.98
+220,VS261,44,2023-07-09,Ghana,North Barbaraland,6454.36
+221,VS310,0,2023-05-06,Saudi Arabia,West Larryton,0.0
+222,AC412,4,2023-10-02,Burkina Faso,South Thomastown,1102.72
+223,CB382,4,2023-10-14,Sierra Leone,Port Michelle,314.2
+224,VS535,6,2023-11-20,Cape Verde,North Kirstenburgh,931.86
+225,CR289,45,2023-07-05,Colombia,North Taraview,5316.3
+226,AC266,1,2023-05-29,Gibraltar,Davidshire,52.61
+227,CB885,43,2023-11-13,Botswana,Hernandeztown,2631.6
+228,VT624,7,2023-02-08,French Polynesia,Hayneston,904.68
+229,VT318,87,2023-11-02,Tanzania,Lake Kellyton,16238.55
+230,VS273,3,2023-12-04,Gabon,Lake Beverly,739.95
+231,CB188,22,2023-08-28,Syrian Arab Republic,New Mallorybury,2163.92
+232,CB182,22,2023-02-03,Ethiopia,East Meghantown,1605.5600000000002
+233,VT468,42,2023-08-11,Togo,Karenburgh,11466.0
+234,CF806,3,2023-10-19,Heard Island and McDonald Islands,New Garyberg,466.9500000000001
+235,AC557,15,2023-02-28,Zimbabwe,Lake Douglasside,3805.8
+236,VT586,1,2023-12-05,Saint Kitts and Nevis,New Coreyshire,220.72
+237,CR853,82,2023-10-20,Chad,Lake Lindsayberg,21085.48
+238,AS930,16,2023-04-17,Pitcairn Islands,Courtneyland,3084.32
+239,VS989,20,2023-01-10,Greece,North Amy,1723.4
+240,VS112,33,2023-03-30,Marshall Islands,East Charles,4397.58
+241,AC416,38,2023-06-20,Martinique,Frankland,3943.64
+242,VT346,45,2023-08-25,Isle of Man,Ashleymouth,2528.1
+243,VS390,13,2023-11-13,Estonia,Newmanburgh,2870.01
+244,AS275,7,2023-04-03,Liberia,South Brandiville,1315.65
+245,VT385,46,2023-06-23,Macao,Port Matthewland,3810.64
+246,CB590,21,2023-04-13,Holy See (Vatican City State),East Melissaborough,5088.51
+247,AC406,9,2023-06-22,Swaziland,Beanfort,2161.17
+248,CF145,18,2023-01-15,Maldives,Port Kenneth,1479.06
+249,AC562,4,2023-04-17,Serbia,Lake Sierrahaven,841.32
+250,VS880,81,2023-02-11,Christmas Island,Chaneymouth,5545.259999999999
+251,VT358,25,2023-07-06,Samoa,New Dianeton,5675.0
+252,AC691,59,2023-02-18,Albania,Lake Angelafort,6699.45
+253,VS184,6,2023-06-08,Georgia,North Laurenfort,1670.04
+254,AC335,8,2023-09-26,Mali,Tracymouth,1623.52
+255,VS874,0,2023-05-03,Ethiopia,West Tracyview,0.0
+256,CB863,17,2023-01-10,Northern Mariana Islands,Lake Michaelberg,4410.14
+257,CF997,37,2023-03-11,Suriname,West Brandon,7344.87
+258,AC625,32,2023-11-12,American Samoa,Port Louis,7784.64
+259,AC281,11,2023-07-10,Gabon,Wrightberg,1330.89
+260,CF922,23,2023-01-31,French Southern Territories,South Carolyn,2670.99
+261,CB886,59,2023-09-06,Angola,East Davidbury,3586.61
+262,VS972,8,2023-08-26,Norfolk Island,Muellerstad,2160.48
+263,AS115,33,2023-07-30,Luxembourg,West Rebeccaville,9817.17
+264,AC472,12,2023-08-18,Rwanda,North Jeanne,2446.56
+265,AC569,26,2023-08-12,El Salvador,North Loriberg,6507.28
+266,AC244,0,2023-11-14,Bangladesh,New Christineshire,0.0
+267,AC481,15,2023-10-30,Latvia,Annatown,1126.5
+268,CB286,3,2023-11-19,Brunei Darussalam,Tiffanyberg,563.37
+269,VS903,29,2023-09-21,United Kingdom,Johnberg,2137.88
+270,VT434,16,2023-12-03,Guinea,North Robinfurt,2679.52
+271,AC551,66,2023-06-30,Brazil,Acostachester,16579.86
+272,CR321,12,2023-04-26,Romania,Cunninghamburgh,2634.0
+273,AC980,40,2023-03-07,Senegal,Welchton,3162.4
+274,VS361,1,2023-11-03,Dominica,Jasonmouth,198.14
+275,VS887,32,2023-06-14,Eritrea,Aguilarfort,2717.44
+276,AC132,6,2023-05-11,Rwanda,Grimesbury,1197.78
+277,VS238,34,2023-04-11,Norfolk Island,Port Stephaniechester,8004.28
+278,VS896,4,2023-08-23,Peru,Michellemouth,477.36
+279,AS636,16,2023-02-23,Costa Rica,New Brian,3019.52
+280,VS965,7,2023-05-02,Papua New Guinea,Frazierstad,1318.45
+281,AS448,49,2023-02-13,Singapore,Gilmoremouth,11801.65
+282,CF518,85,2023-04-09,China,Tammymouth,18603.1
+283,VT288,20,2023-03-06,Greenland,Port Chad,2075.2000000000003
+284,VT755,63,2023-12-17,Latvia,Lauraborough,4399.29
+285,CB881,22,2023-12-17,South Georgia and the South Sandwich Islands,Maryfort,3175.26
+286,CR965,4,2023-09-25,Iran,North Gregoryland,1092.72
+287,VS654,6,2023-08-08,Tuvalu,Waremouth,1642.6799999999998
+288,AS268,28,2023-04-01,Lithuania,Michellebury,4785.48
+289,CF887,15,2023-02-22,Antarctica (the territory South of 60 deg S),New Jacquelineview,3059.4
+290,AS664,4,2023-01-13,Iceland,Barrettstad,250.0
+291,AC432,28,2023-03-12,Israel,Danamouth,6826.12
+292,CF547,13,2023-01-12,Palau,Albertland,1950.91
+293,VS172,8,2023-03-28,Palestinian Territory,Kellermouth,471.84
+294,VS387,7,2023-07-31,Tonga,East Tonyaview,1941.66
+295,CB306,0,2023-12-16,Tunisia,Andersonmouth,0.0
+296,CF439,14,2023-12-31,Argentina,New Brianbury,3217.34
+297,VT406,52,2023-02-16,Lebanon,Vargasville,5798.52
+298,CF798,3,2023-11-26,Morocco,Feliciaburgh,277.23
+299,CB738,9,2023-01-17,Switzerland,Davidborough,2005.11
+300,VT696,22,2023-12-25,Antarctica (the territory South of 60 deg S),South Stevenstad,3946.14
+301,CB817,5,2023-03-31,Thailand,North Melissaland,1284.8
+302,CB803,0,2023-06-05,American Samoa,West Kristen,0.0
+303,CR961,15,2023-04-08,Puerto Rico,New Josephmouth,2269.05
+304,VS356,50,2023-06-27,San Marino,North Sharonton,10943.5
+305,VT888,0,2023-01-02,Tajikistan,Johnhaven,0.0
+306,AS811,15,2023-05-08,Algeria,Mcdanielmouth,1476.15
+307,VS833,28,2023-03-13,Kiribati,Whiteland,2099.44
+308,VS160,3,2023-07-04,Lao People's Democratic Republic,Hansenstad,506.52
+309,AC309,66,2023-06-04,Ireland,Ramirezfurt,17059.68
+310,VS881,35,2023-10-15,Greece,Morganport,4416.3
+311,AC449,0,2023-12-25,Malaysia,Jessicahaven,0.0
+312,VS286,5,2023-07-07,France,Thomasfort,691.35
+313,VT638,27,2023-03-10,Burundi,South Amanda,1516.86
+314,AC782,15,2023-05-28,San Marino,Williamsonbury,1047.45
+315,VT721,0,2023-05-03,Paraguay,Hayestown,0.0
+316,VS775,5,2023-01-11,Heard Island and McDonald Islands,Stantonview,749.0
+317,VS592,25,2023-09-20,Aruba,Kimberlymouth,5028.5
+318,VT183,56,2023-04-07,Faroe Islands,Freemanmouth,4916.8
+319,VT293,69,2023-12-12,Guinea,South Robertberg,9053.49
+320,AC539,31,2023-04-01,Vanuatu,Craigland,6109.4800000000005
+321,CF772,45,2023-07-20,Denmark,Laurieborough,6930.0
+322,CB976,41,2023-11-26,Puerto Rico,Tylermouth,5839.219999999999
+323,VS960,53,2023-07-12,Kiribati,East Robertfort,9339.66
+324,CF385,0,2023-04-03,Botswana,North Josephside,0.0
+325,AC207,26,2023-07-19,Azerbaijan,Lake Erik,2785.12
+326,AC688,2,2023-07-31,Antigua and Barbuda,North Tracy,552.12
+327,CB279,46,2023-12-07,American Samoa,Duncanchester,5640.98
+328,AS999,29,2023-04-07,Martinique,Vincentmouth,2098.15
+329,VS724,35,2023-09-23,Croatia,Swansonburgh,3944.15
+330,VT311,2,2023-06-25,Svalbard & Jan Mayen Islands,Katherineland,343.62
+331,CB629,13,2023-03-10,Luxembourg,South Joshua,3487.25
+332,AS305,19,2023-08-24,Pitcairn Islands,Evansmouth,2782.93
+333,CR498,5,2023-03-31,Gambia,Harrisstad,1011.7
+334,AC498,8,2023-05-25,Georgia,South Richardshire,860.72
+335,VS203,18,2023-09-23,Tanzania,East Jessicahaven,1096.92
+336,VS762,5,2023-07-04,United Kingdom,North Stephanieborough,1180.2
+337,AC277,0,2023-07-09,Peru,South Andre,0.0
+338,VT226,6,2023-06-20,United States of America,Richardmouth,708.66
+339,CF593,0,2023-07-17,Swaziland,North Teresa,0.0
+340,CB383,6,2023-07-30,Benin,East Jamesmouth,381.78
+341,CB499,24,2023-10-22,Honduras,Victoriafurt,3449.5199999999995
+342,AC410,33,2023-12-21,Sudan,West Stephanietown,5662.14
+343,AC183,2,2023-02-06,Swaziland,Barkerberg,218.34
+344,AS330,71,2023-12-05,Armenia,New Jameschester,5457.77
+345,VS326,28,2023-01-18,Isle of Man,Taylorfort,1690.36
+346,AC457,39,2023-09-05,Libyan Arab Jamahiriya,Lake James,3710.46
+347,AC739,30,2023-09-01,Australia,Lake Oscarmouth,2522.1
+348,AC927,34,2023-09-05,Norfolk Island,Lake Robert,9177.96
+349,VS945,58,2023-01-16,Malaysia,Wyattstad,7226.799999999999
+350,VS593,39,2023-08-27,Swaziland,East Kaylastad,7696.26
+351,VS471,1,2023-10-13,Reunion,North Nathanmouth,95.24
+352,AS171,27,2023-10-01,Malawi,Deborahburgh,1516.32
+353,CB380,9,2023-03-30,Tokelau,Lozanoport,2119.6800000000003
+354,CR239,29,2023-07-15,Macao,North Christinaburgh,4607.2300000000005
+355,VS407,3,2023-02-07,Moldova,Jessicaport,627.99
+356,AC835,20,2023-04-03,Uruguay,Johnview,4413.4
+357,AC345,13,2023-04-10,Portugal,Snyderbury,1057.42
+358,VT102,5,2023-05-05,Benin,Lake Shelley,1466.05
+359,CF283,7,2023-11-18,Togo,West Matthew,1435.28
+360,VT541,4,2023-05-08,South Georgia and the South Sandwich Islands,Lake Diana,217.52
+361,AS970,7,2023-06-03,Saint Barthelemy,Davismouth,977.76
+362,AC256,34,2023-10-25,Fiji,Jameshaven,2728.5
+363,VT648,50,2023-11-24,Netherlands Antilles,East Sandraport,5157.5
+364,VT258,5,2023-12-09,Jersey,Martinezhaven,1303.8
+365,VS481,38,2023-01-19,Rwanda,Singletonchester,4168.98
+366,VT180,5,2023-03-29,Saint Barthelemy,Christophermouth,1031.6
+367,VT409,33,2023-04-20,Oman,New Sean,8183.67
+368,CB573,4,2023-03-10,Luxembourg,East Brittany,234.4
+369,CR664,24,2023-04-10,Marshall Islands,Tamaratown,5626.56
+370,CB858,4,2023-11-09,Brazil,North Linda,1017.56
+371,CF296,20,2023-07-29,Reunion,Alishaport,2917.4
+372,AS553,25,2023-09-14,Philippines,West Annbury,2825.5
+373,VS173,69,2023-03-24,Grenada,Stacymouth,4558.83
+374,VT660,39,2023-04-25,Ethiopia,East Paulstad,2006.16
+375,AS542,68,2023-09-01,Netherlands,Johnsonbury,7141.36
+376,CR632,5,2023-05-10,Russian Federation,North Jasonmouth,1092.6
+377,CF836,47,2023-02-01,Cook Islands,East Michaelburgh,9700.33
+378,CB664,27,2023-07-19,Guatemala,Aprilton,7128.539999999999
+379,CF694,42,2023-04-15,Bolivia,Stonestad,2443.56
+380,VS661,12,2023-04-04,Saint Pierre and Miquelon,Hansonland,2199.24
+381,CR146,6,2023-09-18,British Indian Ocean Territory (Chagos Archipelago),West Jenniferburgh,602.58
+382,CF779,33,2023-02-12,Northern Mariana Islands,East Elizabeth,3375.24
+383,VS229,2,2023-02-16,Faroe Islands,North Dustinside,535.34
+384,CB909,3,2023-12-21,Libyan Arab Jamahiriya,Shannonfurt,270.12
+385,AC368,2,2023-09-18,Papua New Guinea,Stephaniemouth,478.18
+386,CF318,34,2023-08-18,Brunei Darussalam,Johnborough,4971.48
+387,AC285,17,2023-10-27,Guyana,East Josephfort,893.01
+388,VS308,29,2023-02-26,Isle of Man,Josephland,6534.86
+389,AC734,33,2023-03-12,Palestinian Territory,Christinehaven,9122.19
+390,AC244,7,2023-12-22,Libyan Arab Jamahiriya,Weberstad,761.81
+391,AC554,75,2023-09-24,Myanmar,Lake Jeff,5587.5
+392,CB324,1,2023-12-24,Mexico,Jamesside,159.21
+393,AS885,34,2023-01-04,Australia,Changside,4137.8
+394,VS700,0,2023-10-17,Sweden,Yuland,0.0
+395,AC499,72,2023-09-07,Svalbard & Jan Mayen Islands,South Brittanybury,18952.56
+396,CB389,29,2023-07-02,Montenegro,Brownville,2339.43
+397,AC301,16,2023-02-08,Palau,Lake Christina,1912.16
+398,CR826,21,2023-09-18,Russian Federation,Taylorchester,5118.33
+399,CR774,72,2023-08-03,Bhutan,Wattstown,6798.960000000001
+400,AC941,36,2023-03-12,Montserrat,Haroldfurt,10470.96
+401,VS807,94,2023-10-31,Czech Republic,East Gerald,18081.84
+402,CB358,0,2023-01-09,India,Lake Melinda,0.0
+403,AC163,52,2023-11-23,New Zealand,Anthonyfort,9315.8
+404,VT213,13,2023-02-04,Albania,Buchananmouth,3131.1800000000003
+405,VT875,26,2023-07-19,Dominica,South Bailey,2564.38
+406,AS666,4,2023-09-26,Cote d'Ivoire,Lake Matthew,1026.92
+407,AC318,26,2023-11-22,Lao People's Democratic Republic,Williamport,4977.44
+408,CR488,12,2023-09-13,Belgium,Wrightmouth,2843.28
+409,CR832,39,2023-01-04,French Southern Territories,Johnport,7186.530000000001
+410,CR525,25,2023-07-24,Anguilla,New Jamieberg,4896.25
+411,VS877,4,2023-08-23,American Samoa,Matthewton,583.72
+412,VT880,14,2023-04-17,Luxembourg,East Annshire,3191.44
+413,CF370,25,2023-09-14,Japan,Taylorton,6504.5
+414,AC365,42,2023-01-22,Honduras,Michaelland,9035.88
+415,VT591,25,2023-06-05,Malta,Alexville,4895.75
+416,AC665,38,2023-05-19,Bulgaria,Blackmouth,1976.76
+417,VS723,9,2023-04-14,China,Lake Heatherton,1935.27
+418,AC398,4,2023-02-08,Cuba,North Robertside,831.64
+419,AS966,27,2023-05-21,Azerbaijan,Port Andrea,2047.68
+420,AC794,48,2023-03-03,French Southern Territories,Richardbury,5064.96
+421,AC373,10,2023-01-21,Macao,Grossside,2824.1000000000004
+422,VS286,61,2023-06-17,China,West Angela,15694.69
+423,VS301,52,2023-12-20,Ukraine,Cuevasville,9348.04
+424,CB800,2,2023-11-11,Somalia,Ronaldberg,375.08
+425,CF107,84,2023-12-05,Burundi,Mendozamouth,4522.56
+426,CR327,37,2023-11-30,United Arab Emirates,Lake Ashleybury,9613.71
+427,VS566,8,2023-10-05,Somalia,Lauraton,1409.52
+428,AC513,68,2023-10-09,France,West Ericburgh,9225.56
+429,AS288,0,2023-08-17,Congo,New Jeffreyville,0.0
+430,CF211,48,2023-12-20,Falkland Islands (Malvinas),West Brandonberg,6755.52
+431,VS660,2,2023-06-23,Madagascar,Jacquelinefort,346.78
+432,CF991,0,2023-07-16,Eritrea,Samuelland,0.0
+433,CF935,5,2023-11-28,Niger,Lake Sarastad,1357.5
+434,CB837,84,2023-02-20,Dominica,Bellfurt,11487.84
+435,AC961,31,2023-12-04,Liberia,West Kevin,6863.400000000001
+436,CF156,1,2023-09-10,Myanmar,Adkinston,89.7
+437,AS606,0,2023-09-12,Djibouti,West Judy,0.0
+438,CB149,1,2023-02-03,Mauritania,South Hannah,177.51
+439,VS584,9,2023-02-05,French Guiana,Port Diane,629.73
+440,VS392,11,2023-08-24,Mexico,Smithfurt,3041.5
+441,AS701,19,2023-07-28,Cook Islands,Jasonstad,2261.19
+442,AC670,2,2023-12-26,Qatar,South Whitneyfort,483.9
+443,CF693,8,2023-07-02,Ethiopia,Joannashire,2283.28
+444,VT769,12,2023-09-17,Hong Kong,East James,1370.28
+445,AS606,22,2023-08-11,Albania,Darleneview,4564.34
+446,VS368,4,2023-08-24,India,Oliverstad,563.0
+447,CF128,4,2023-02-09,Turkey,South Rebeccaton,664.24
+448,CF181,13,2023-04-23,Brazil,Frederickberg,3675.1
+449,CR742,42,2023-01-15,Malaysia,Baileyside,9564.66
+450,VS594,21,2023-01-24,Nigeria,Everettborough,4892.79
+451,AC825,45,2023-08-30,Armenia,Martinezberg,11794.95
+452,AS906,21,2023-04-26,Armenia,Goodwinview,1972.11
+453,AC359,83,2023-07-01,Timor-Leste,South Jennifer,7183.65
+454,AC968,10,2023-12-09,Dominica,New Kimberlyville,2913.1
+455,VS275,10,2023-02-23,Mayotte,West Marychester,979.3
+456,VS693,33,2023-04-06,Macedonia,Browntown,5905.02
+457,CF120,50,2023-07-18,Falkland Islands (Malvinas),West Kelly,13097.0
+458,VT626,31,2023-07-06,Peru,Christopherside,8027.759999999999
+459,CF457,22,2023-03-23,Western Sahara,South Jennifer,2958.1200000000003
+460,AC910,9,2023-11-06,Bhutan,Floresville,2401.92
+461,CR391,31,2023-05-30,Iraq,Steelehaven,2722.11
+462,CB937,19,2023-11-11,Poland,East Jennifer,5597.209999999999
+463,AC573,82,2023-05-16,Tuvalu,Danielleborough,4464.900000000001
+464,AC969,37,2023-01-14,Cote d'Ivoire,Laurieville,7422.570000000001
+465,AC471,3,2023-12-23,Svalbard & Jan Mayen Islands,Jessicafurt,259.62
+466,VS872,36,2023-02-26,Hong Kong,New Michelle,9507.96
+467,AS811,89,2023-03-30,French Southern Territories,New Christinachester,22511.66
+468,CB969,18,2023-10-12,Holy See (Vatican City State),Ellisport,4083.3
+469,AC596,85,2023-04-07,Angola,New David,6494.000000000001
+470,CF647,4,2023-11-16,Rwanda,Port Ricardoburgh,781.04
+471,CB546,36,2023-02-22,Norway,Leland,2878.56
+472,AC731,17,2023-08-01,Cuba,Whitefort,1333.14
+473,VS995,8,2023-05-06,El Salvador,East Sarah,1445.12
+474,VS458,36,2023-03-08,Lithuania,East Carlmouth,8056.44
+475,VT203,31,2023-04-19,Italy,Matthewland,8446.570000000002
+476,AC110,4,2023-08-29,American Samoa,Carrollville,1194.88
+477,AS689,19,2023-06-02,China,Garyland,3317.0200000000004
+478,AC383,11,2023-03-15,Palestinian Territory,West Daniel,946.99
+479,VS840,1,2023-05-01,Uruguay,Marcusport,226.69
+480,CR246,15,2023-06-03,Niue,Port David,4069.05
+481,VS652,6,2023-07-18,Cyprus,East Cindy,1666.56
+482,VS990,27,2023-11-04,Malta,Mckenzieland,2399.22
+483,AC429,96,2023-07-10,Estonia,New Anthony,7896.960000000001
+484,CF463,20,2023-02-22,Ghana,Franklinfort,5166.0
+485,VT104,65,2023-10-17,South Africa,Port Maryview,7363.2
+486,CB176,10,2023-05-07,Cook Islands,East Jonathan,1537.1
+487,VS682,18,2023-02-03,British Indian Ocean Territory (Chagos Archipelago),New David,972.54
+488,VT846,10,2023-11-26,Australia,Rogerport,1374.5
+489,VT375,16,2023-10-19,Guam,Harveyland,3181.44
+490,AS148,51,2023-12-15,Slovakia (Slovak Republic),Wardbury,14137.2
+491,AC372,1,2023-11-27,Andorra,Michaelmouth,267.29
+492,VS809,26,2023-04-25,Vietnam,New Steven,4530.5
+493,VS117,26,2023-04-30,Burundi,East Robert,6775.339999999999
+494,AS935,3,2023-02-06,Bolivia,Jonathanhaven,856.83
+495,AC114,3,2023-07-30,Norway,West Kellymouth,335.37
+496,VS234,32,2023-08-24,Denmark,Deanburgh,5387.84
+497,AC360,25,2023-01-04,Falkland Islands (Malvinas),Butlershire,1604.0
+498,CF101,2,2023-04-28,Nigeria,East Jamesmouth,303.44
+499,CB737,58,2023-01-25,Pakistan,Myersshire,15555.6
+500,AC465,38,2023-12-12,Yemen,Lake Jacobmouth,10713.72
+501,VS771,79,2023-10-07,Bouvet Island (Bouvetoya),South Beverlystad,22991.37
+502,AC451,11,2023-03-21,Uzbekistan,Warrenview,1222.76
+503,AS182,38,2023-09-24,Chile,Lindsayville,9582.84
+504,VT105,66,2023-10-20,Russian Federation,South Patricia,6147.24
+505,VT591,34,2023-11-21,Kiribati,Lake Joshua,8374.54
+506,AS233,7,2023-01-05,Ethiopia,New Crystal,382.27
+507,VS245,6,2023-09-08,Sao Tome and Principe,Lake Soniashire,1647.06
+508,VS911,9,2023-02-25,Tajikistan,Patriciaville,2240.01
+509,AC384,5,2023-08-08,Reunion,Ortizhaven,1475.3
+510,AC946,14,2023-07-26,Nicaragua,West Francisco,1301.02
+511,CF876,26,2023-09-12,Vanuatu,Markfurt,6839.56
+512,CB290,71,2023-11-08,Japan,Johnsonchester,17137.98
+513,CR147,27,2023-07-01,Venezuela,Hollyfort,3472.74
+514,AC647,22,2023-06-05,Honduras,Lake Rebeccaport,3056.9
+515,AS193,15,2023-02-20,El Salvador,West Annamouth,4047.9
+516,CB467,25,2023-08-20,Macao,Saraberg,1786.4999999999998
+517,AC436,13,2023-08-12,Bolivia,North Julietown,3183.7000000000003
+518,CB137,3,2023-05-06,Trinidad and Tobago,South Laura,360.84
+519,AC644,52,2023-03-02,Dominica,Peterfort,9542.52
+520,VS235,30,2023-08-01,Rwanda,Bakerbury,2648.1
+521,VS340,9,2023-11-02,Dominica,East Jennifer,2026.62
+522,VT596,20,2023-09-29,Brunei Darussalam,East James,1765.8000000000002
+523,CF863,11,2023-08-26,Liberia,Jenniferside,2263.36
+524,CR848,20,2023-06-10,Sweden,Amandaland,2856.4
+525,AC509,2,2023-11-07,Norway,Port Cory,404.5
+526,AC939,13,2023-09-05,Papua New Guinea,Port Christopherchester,1245.27
+527,VS481,8,2022-12-31,Netherlands Antilles,East Anthony,1484.4
+528,VS526,5,2023-02-09,South Georgia and the South Sandwich Islands,West Rebeccafort,416.3
+529,VS365,67,2023-11-09,Nicaragua,North Heather,17246.47
+530,VS397,37,2023-12-05,Gibraltar,Port Veronicaburgh,10079.91
+531,AC941,18,2023-09-27,Niue,New Lindsey,3320.82
+532,AS213,18,2023-03-10,Niue,Lake Evelyn,2386.08
+533,CB885,14,2023-01-05,Korea,Hawkinstown,769.3000000000001
+534,CR380,19,2023-02-20,Lebanon,Stephaniechester,4894.78
+535,CF602,21,2023-05-01,Gabon,East Clintonview,1544.13
+536,AC392,9,2023-10-05,Vanuatu,Steveborough,2587.14
+537,CB371,8,2023-08-01,Vietnam,Davidton,1049.44
+538,VS497,40,2023-01-28,Maldives,Jeremyhaven,8386.8
+539,CR254,36,2023-05-25,Spain,Villanuevatown,9142.2
+540,VT266,23,2023-12-10,Dominican Republic,Bryanton,6645.39
+541,AC757,36,2023-03-03,Montserrat,West Scottchester,10060.56
+542,AS974,5,2023-02-27,British Virgin Islands,Thompsonport,1053.3
+543,CR798,57,2023-02-23,Moldova,Davischester,9943.65
+544,CR528,54,2023-06-09,Pitcairn Islands,Arroyobury,15153.48
+545,VS155,30,2023-11-20,Cape Verde,Port Stevenside,2897.7000000000003
+546,CF510,69,2023-01-31,Namibia,New Brianport,14726.67
+547,CB920,60,2023-11-30,Croatia,West Brendanbury,8655.599999999999
+548,AC830,17,2023-03-09,Sweden,Port Cody,3389.97
+549,CF592,72,2023-04-05,Israel,South Vickie,18912.96
+550,CF234,1,2023-01-28,Benin,Riceborough,135.41
+551,VT533,2,2023-01-27,Oman,New Leehaven,439.48
+552,AC161,4,2023-02-19,United Arab Emirates,New Alexanderhaven,1105.44
+553,VT865,19,2023-11-01,Fiji,Ibarramouth,4897.629999999999
+554,CR700,21,2023-05-30,Sudan,Jonathanton,4824.96
+555,CB265,18,2023-07-16,Georgia,Port Sarah,3163.14
+556,AS729,46,2023-07-05,Indonesia,Higginsmouth,11214.34
+557,VT993,53,2023-08-24,Bulgaria,West Aimeeburgh,11763.35
+558,CR501,11,2023-06-26,Monaco,New Richard,2299.33
+559,VT853,6,2023-08-19,Saint Helena,Christianview,954.9
+560,AS493,47,2023-07-13,Panama,South Michelleside,11513.59
+561,CR216,11,2023-08-18,Austria,Port Johnfort,692.12
+562,VT450,41,2023-09-30,Finland,Lake Dana,8072.49
+563,AC217,55,2023-03-19,Portugal,Port Michael,12351.9
+564,VS875,34,2023-09-28,Nicaragua,West Thomas,6829.92
+565,CR857,3,2023-11-18,Dominican Republic,Ballview,412.86
+566,VS518,31,2023-01-10,Dominica,Josephborough,7742.25
+567,CF549,3,2023-01-13,Slovenia,Lake Eric,303.27
+568,VS354,14,2023-12-21,Barbados,Lake Brandonland,1434.58
+569,VS338,47,2023-07-06,South Georgia and the South Sandwich Islands,North Kayla,7206.04
+570,AC146,10,2023-07-09,Myanmar,North Charlesfurt,1826.8
+571,AC861,29,2023-05-05,Pakistan,West Johntown,5382.4
+572,CB428,2,2023-06-07,Uruguay,Coopermouth,585.04
+573,VS195,4,2023-03-03,Saint Barthelemy,Pattersonview,271.12
+574,VT144,29,2023-11-24,Guernsey,West Bryanburgh,5590.62
+575,VS977,20,2023-06-21,New Caledonia,Jeffshire,5945.8
+576,AC753,17,2023-03-18,Guinea-Bissau,New Michellefort,1167.5600000000002
+577,AC214,5,2023-07-27,Sudan,Benjaminberg,825.1
+578,AS280,19,2023-09-24,Netherlands Antilles,Port Stevenhaven,1416.07
+579,CR235,11,2023-07-24,Pitcairn Islands,Lake Henry,2259.18
+580,CF734,0,2023-10-15,Panama,Lake Patriciaport,0.0
+581,VS352,30,2023-11-05,Poland,Port Melissaside,8860.199999999999
+582,AC426,2,2023-06-18,Iceland,Rogersbury,472.42
+583,AC349,33,2023-04-16,Honduras,Jacksonborough,3564.3300000000004
+584,AC800,56,2023-04-17,Taiwan,Larsonberg,8245.44
+585,CF835,21,2023-05-17,Bermuda,North Roger,3351.8100000000004
+586,AC491,35,2023-08-24,China,Mcdonaldton,2174.9
+587,CF416,38,2023-12-16,Somalia,North Raymond,2563.86
+588,VS916,10,2023-07-22,Chad,Samanthaborough,834.4
+589,CF578,1,2023-03-22,Norfolk Island,Deannaland,172.96
+590,AS396,1,2023-07-07,Saint Martin,South Karenhaven,70.59
+591,AS952,18,2023-12-28,Slovakia (Slovak Republic),Stewarthaven,4632.3
+592,AC620,52,2023-03-05,Denmark,North Nicole,11686.48
+593,VS220,52,2023-12-19,Antarctica (the territory South of 60 deg S),East Codychester,8389.16
+594,AC452,1,2023-01-28,Guernsey,Bradleymouth,62.13
+595,AC268,55,2023-10-25,Comoros,Lake Jenniferland,5608.35
+596,AS312,76,2023-10-09,Timor-Leste,Petersonport,9670.24
+597,AC980,53,2023-02-21,United Kingdom,Klineborough,11889.49
+598,AC899,2,2023-08-28,Anguilla,Shannonmouth,549.36
+599,VS667,2,2023-06-18,Mauritius,Jerrymouth,537.12
+600,VS861,11,2023-04-07,Ethiopia,Cartermouth,600.49
+601,VS324,5,2023-03-02,Serbia,Aprilfurt,971.15
+602,CF795,10,2023-04-30,Kyrgyz Republic,Dominiqueview,2087.1
+603,VS191,1,2023-05-13,Niue,Kathyburgh,180.25
+604,AS551,57,2023-07-12,Montserrat,Markville,2954.88
+605,AC135,35,2023-03-08,United Kingdom,Melissaburgh,10391.5
+606,VS170,0,2023-02-13,Central African Republic,North Andrea,0.0
+607,CB415,39,2023-01-13,Turkey,East Austinland,6318.780000000001
+608,CB795,76,2023-08-14,Western Sahara,Port Candaceberg,3946.68
+609,AS811,2,2023-01-26,United Kingdom,Cruzshire,466.08
+610,CR814,14,2023-11-13,Iran,West Daniel,1573.46
+611,VT168,2,2023-03-16,Niger,Ryanstad,116.8
+612,VS988,72,2023-02-01,United States Virgin Islands,South Donaldville,7683.12
+613,CB778,0,2023-07-03,Luxembourg,Dunlapmouth,0.0
+614,AC146,32,2023-02-04,Pakistan,Loriborough,5793.28
+615,CR376,29,2023-11-01,Anguilla,West Wendyfort,2262.0
+616,CR898,6,2023-12-01,Denmark,South Kathrynhaven,598.26
+617,AC430,56,2023-03-09,Eritrea,New Aaronburgh,10514.56
+618,VT512,20,2023-05-20,Hungary,South Connie,5186.2
+619,CR575,7,2023-06-18,Malaysia,West Mariah,1172.36
+620,CB792,1,2023-03-02,Colombia,Lake Lisa,182.36
+621,AC871,11,2023-03-28,Canada,South Michaelborough,1278.09
+622,CR653,24,2023-09-23,Kuwait,Yatesside,2936.88
+623,AC719,11,2023-10-15,Portugal,Bruceview,2300.1
+624,AC744,8,2023-01-01,French Polynesia,East Yvettefurt,988.08
+625,AS362,7,2023-02-15,Vanuatu,Allenchester,1814.61
+626,VS697,20,2023-12-12,Madagascar,Romeroburgh,2093.2
+627,CB311,10,2023-04-28,Sao Tome and Principe,Ryanhaven,2420.1
+628,AC487,19,2023-12-07,Luxembourg,Jasonshire,1760.73
+629,VT912,20,2023-04-16,Ethiopia,Vargasview,1548.0
+630,AS673,22,2023-09-15,Hungary,East James,5927.02
+631,CF597,35,2023-09-02,Guatemala,Phelpshaven,5320.0
+632,CB223,54,2023-03-30,Gabon,East Emily,8260.38
+633,VS249,11,2023-04-28,Kuwait,Leestad,1717.21
+634,AS676,7,2023-10-07,Cape Verde,East Tyler,1217.93
+635,CF128,74,2023-08-10,Georgia,West Bobby,20814.72
+636,AC333,49,2023-10-15,Mayotte,East Kathleenburgh,8060.01
+637,VS811,30,2023-02-17,French Guiana,Port Claudiaview,5152.5
+638,CF850,7,2023-08-25,Mongolia,Garciaside,474.46
+639,VT287,65,2023-12-31,Spain,Lake Johnville,10698.35
+640,AC597,25,2023-07-22,Tunisia,New Amberfurt,1945.5
+641,VT635,15,2023-03-31,Slovenia,Cookfort,794.6999999999999
+642,VS526,39,2023-05-26,Malawi,Ruizfurt,4505.28
+643,CF323,5,2023-04-03,Argentina,South Kelli,892.2
+644,CR178,24,2023-12-09,Andorra,Lake Brendamouth,3047.52
+645,CB747,7,2023-04-10,Puerto Rico,Johnsonberg,1696.52
+646,VS350,13,2023-09-06,Mexico,South Joshua,1792.5699999999997
+647,CR365,2,2023-07-19,Honduras,North Lauren,277.82
+648,CB420,42,2023-02-26,Niger,South Amy,9745.26
+649,AS188,10,2023-12-28,Haiti,East Heather,762.5
+650,AC335,23,2023-09-05,Mayotte,North Kathleen,2081.27
+651,VS785,54,2023-03-22,Guam,Heathertown,14878.079999999998
+652,AC394,18,2023-02-24,Poland,Grimesshire,4336.38
+653,VS443,71,2023-07-21,United States of America,Port Jennifer,16087.18
+654,AC334,10,2023-08-08,Angola,Port Alexis,653.1999999999999
+655,CB523,2,2023-07-15,Philippines,Goodwinland,145.8
+656,AC423,25,2023-11-16,Solomon Islands,Bartlettmouth,3449.25
+657,AS398,82,2023-01-06,Mauritania,West Dennisville,21535.66
+658,VT860,23,2023-12-15,Netherlands Antilles,Joshuahaven,4018.79
+659,AC478,0,2023-05-15,Ecuador,New Abigailborough,0.0
+660,CF329,34,2023-03-09,Mauritania,Gomezchester,5515.82
+661,AC467,19,2023-05-12,Japan,Tylerville,1119.86
+662,CR593,17,2023-03-30,Central African Republic,Nicholsmouth,915.45
+663,CF182,78,2023-12-11,Chile,Lake Cathy,4608.24
+664,CF540,9,2023-11-26,Korea,Kirkbury,2478.15
+665,AC360,4,2023-11-17,Belarus,Port Williamborough,679.8
+666,VS518,1,2023-06-04,Ethiopia,East Georgetown,50.19
+667,CB499,1,2023-09-14,Botswana,New Rileytown,53.36
+668,CR956,24,2023-04-20,Pakistan,Arielfurt,5627.76
+669,VT706,1,2023-04-13,Slovakia (Slovak Republic),Rogersview,291.48
+670,AC178,22,2023-04-17,Congo,Mitchellbury,1799.8200000000002
+671,VS995,7,2023-08-03,Saint Lucia,North Kelly,2085.09
+672,AC667,6,2023-05-03,Luxembourg,Rogerfort,785.04
+673,AC192,3,2023-03-03,Svalbard & Jan Mayen Islands,New Katelyn,611.1899999999999
+674,VT327,2,2023-04-10,Cape Verde,Smithville,380.74
+675,AS596,51,2023-02-25,Yemen,Alexchester,13205.94
+676,AC342,0,2023-09-13,Angola,West Phillip,0.0
+677,AS289,34,2023-11-29,Luxembourg,Susanchester,6176.1
+678,CR341,7,2023-09-16,Central African Republic,Hansenfurt,1242.08
+679,AS588,53,2023-01-27,Bhutan,West Jessicaport,3989.31
+680,VS215,8,2023-11-08,Greece,Collinsview,2206.72
+681,AS717,14,2023-02-05,Oman,Marybury,3703.14
+682,VS664,28,2023-04-14,Anguilla,North Wandamouth,7367.92
+683,CB621,0,2023-08-13,Guinea-Bissau,Moodyville,0.0
+684,VS777,2,2023-01-17,Namibia,East Claudia,425.48
+685,CB885,7,2023-11-06,Cote d'Ivoire,North Henryview,1825.53
+686,AC801,37,2023-05-03,Niger,Gregorystad,5343.17
+687,AC250,5,2023-05-28,Central African Republic,Brittanymouth,820.5500000000001
+688,CR439,0,2023-09-01,Trinidad and Tobago,Wilsonbury,0.0
+689,VS469,31,2023-05-16,Burundi,Port Jason,5320.22
+690,VS185,64,2023-12-27,Korea,Michaelview,9059.2
+691,VS197,12,2023-11-01,Qatar,South Lindsayburgh,1632.48
+692,AS244,3,2023-02-15,Malaysia,Lake Carolynville,188.97
+693,VT405,11,2023-04-09,Svalbard & Jan Mayen Islands,West Karl,1446.17
+694,CR490,9,2023-10-19,Micronesia,West Erica,1962.54
+695,AC384,7,2023-03-01,Ukraine,South Bretthaven,1118.46
+696,AS575,2,2023-03-03,Sierra Leone,South Ellenville,569.5
+697,VS647,83,2023-07-25,New Caledonia,West Leroy,11872.32
+698,CF389,81,2023-05-19,Jersey,South Christinaberg,21831.93
+699,AC776,68,2023-05-14,Saint Lucia,Samanthaland,19051.56
+700,VS253,20,2023-05-17,Pitcairn Islands,Jonesburgh,2666.8
+701,AC683,7,2023-08-15,China,Aaronbury,1600.83
+702,VT955,6,2023-11-18,Monaco,West Patricia,1684.2599999999998
+703,AC460,2,2023-06-01,Qatar,Nicolebury,128.4
+704,CR630,56,2023-03-05,Palau,Collinsville,12214.16
+705,AC597,15,2023-07-09,Guinea,Brittneyland,3532.05
+706,CF888,7,2023-08-15,Switzerland,Zacharyville,1809.85
+707,VT783,44,2023-12-02,Micronesia,East Michael,3021.48
+708,AC459,6,2023-11-28,Bosnia and Herzegovina,West Jessicabury,1580.1
+709,CB871,30,2023-11-19,Mali,Port Karen,1943.4
+710,VS569,21,2023-08-10,Isle of Man,North Suefort,5301.03
+711,VS774,95,2023-12-21,Bolivia,South Danland,13697.1
+712,AS543,34,2023-07-03,Pitcairn Islands,Angelaview,2229.72
+713,VS285,41,2023-12-09,Christmas Island,North Steven,5485.389999999999
+714,CR595,65,2023-11-18,Lao People's Democratic Republic,Garciabury,11581.7
+715,VS474,46,2023-03-28,Angola,New Connor,12644.02
+716,AS888,5,2023-01-16,Papua New Guinea,East Kathleen,534.9499999999999
+717,CB696,2,2023-08-05,Saint Vincent and the Grenadines,Michaelberg,531.4
+718,AC305,19,2023-02-25,Kyrgyz Republic,Kennedyhaven,2515.22
+719,VS201,14,2023-07-16,Honduras,Johnmouth,1274.42
+720,AC690,45,2023-10-17,Central African Republic,New Peterport,6790.049999999999
+721,CF768,17,2023-02-07,Anguilla,Jamesmouth,4943.09
+722,AC768,14,2023-09-16,Cocos (Keeling) Islands,Debrastad,2643.48
+723,CR389,22,2023-01-24,Norway,West Richard,6044.06
+724,CF171,11,2023-02-15,Lithuania,Elizabethport,2004.09
+725,AC195,2,2023-10-03,Palau,Andreastad,243.1
+726,AS717,2,2023-04-15,Puerto Rico,New Lori,431.92
+727,VS541,52,2023-04-05,Gabon,Adrianburgh,6921.720000000001
+728,CF704,9,2023-03-27,Canada,Port Robert,2037.69
+729,CB390,20,2023-10-25,Bahamas,Port Brittany,3677.0
+730,CF184,62,2023-07-01,Madagascar,Cookburgh,8839.960000000001
+731,VS971,26,2023-04-15,Mali,Phillipview,6485.96
+732,CF655,38,2023-03-26,Italy,South Joshuamouth,3291.94
+733,VS442,42,2023-03-21,Saudi Arabia,West Angelatown,9059.4
+734,AC455,10,2023-04-16,British Virgin Islands,Stevensberg,1613.5
+735,CR800,42,2023-10-10,Solomon Islands,North Vanessaborough,12025.02
+736,CR915,10,2023-06-02,Guam,South Aaronview,1241.1
+737,AC862,36,2023-04-14,Hong Kong,New Stephanie,9582.84
+738,AS820,12,2023-11-29,Tajikistan,Mollyville,1676.88
+739,CF533,66,2023-12-09,Lebanon,South Jacobburgh,5528.82
+740,AC813,18,2023-02-22,United States Virgin Islands,New Jeffrey,4817.7
+741,AC139,100,2023-11-28,Japan,Conwayport,15393.0
+742,CB321,8,2023-07-22,Iraq,Lesliebury,1303.76
+743,AC644,8,2023-05-12,Monaco,South Ronald,1203.92
+744,VT343,16,2023-06-24,Guatemala,Port Kimberlyberg,3859.2
+745,CR828,8,2023-03-08,Croatia,Port Michael,668.24
+746,AS398,21,2023-08-10,Nigeria,Lake Cindyborough,3326.4
+747,VT696,2,2023-10-04,Bahamas,East Ronaldland,142.22
+748,AC946,10,2023-08-14,Venezuela,Angelaville,1406.3
+749,AS670,12,2023-11-27,Morocco,Port Carlosberg,3130.8
+750,CF621,4,2023-10-01,China,New Paigeborough,1174.08
+751,CF896,18,2023-06-27,Azerbaijan,Munozmouth,1724.58
+752,AC583,4,2023-12-31,Ireland,Patrickview,246.8
+753,AC931,5,2023-01-20,Liberia,Haneychester,411.65
+754,CF167,29,2023-01-07,New Zealand,Lake Michelle,6264.29
+755,VS571,9,2023-07-04,China,New Andrewfort,1494.81
+756,CB520,13,2023-11-29,Maldives,Richardfurt,3437.46
+757,VT407,27,2023-10-29,Iceland,Jonesmouth,5471.28
+758,VS591,80,2023-08-03,Tajikistan,Deborahstad,21552.0
+759,VT774,38,2023-11-19,Venezuela,Williamsborough,10613.4
+760,CF102,82,2023-06-10,Bouvet Island (Bouvetoya),South Jenniferfort,24061.26
+761,CF218,0,2023-07-19,Timor-Leste,Letown,0.0
+762,AC616,22,2023-01-26,Syrian Arab Republic,Danielmouth,3903.68
+763,AS554,2,2023-11-29,United States Virgin Islands,Marshallburgh,578.22
+764,AC540,12,2023-01-03,Bahrain,Port Kimberly,1698.6
+765,CF179,68,2023-07-06,Haiti,New Joshua,14894.04
+766,VS795,20,2023-11-19,Ethiopia,Lake Kaitlyn,1538.6
+767,AC448,43,2023-10-26,San Marino,East Melissaton,10755.59
+768,AC673,22,2023-05-20,Bahamas,Leachton,6517.719999999999
+769,AC327,31,2023-04-20,Hungary,West Dianeshire,3769.91
+770,VS430,2,2023-10-09,Sao Tome and Principe,Gomezmouth,133.78
+771,AC985,30,2023-06-02,Ukraine,Port Donald,2472.0
+772,CR595,86,2023-03-10,Oman,East Jeffshire,15953.0
+773,CR992,54,2023-02-25,Chad,Scottland,7194.960000000001
+774,AC920,10,2023-03-28,Isle of Man,Port Mindyside,1797.5
+775,AC821,28,2023-02-25,Fiji,North James,5221.72
+776,VS224,29,2023-10-14,Ireland,Amyborough,3157.23
+777,VS191,16,2023-08-09,Puerto Rico,New Michelle,4214.24
+778,AC572,8,2023-08-11,Austria,West Cheyennefort,1523.04
+779,CB286,56,2023-05-12,Cocos (Keeling) Islands,Berryfort,5907.44
+780,CB345,16,2023-05-12,Turkey,Port Jared,3296.64
+781,CF926,17,2023-04-02,Cayman Islands,Port Abigail,1492.6
+782,AS825,45,2023-05-26,Indonesia,Port Gabriel,4401.45
+783,AC395,11,2023-05-10,Ecuador,South Anthonymouth,1074.92
+784,AC195,45,2023-09-22,Croatia,South Barbara,5049.9
+785,AC371,48,2023-01-02,Argentina,East Samuelburgh,3777.6
+786,AC495,9,2023-10-07,Anguilla,New Mary,2316.15
+787,VS482,1,2023-03-01,Venezuela,Hernandezmouth,79.2
+788,CB212,16,2023-11-17,Comoros,Samanthaton,2074.88
+789,AC477,17,2023-08-13,Rwanda,Duffystad,3211.64
+790,VS308,7,2023-06-26,Grenada,New Melanie,1809.92
+791,AC670,0,2023-06-14,Netherlands,East Alanton,0.0
+792,VS538,55,2023-09-18,Cuba,Amandaview,10505.55
+793,AC847,13,2023-12-27,Bhutan,Jamesfurt,2092.61
+794,CF611,22,2023-02-19,Turkmenistan,Millerstad,2746.7
+795,AC208,15,2023-05-07,Holy See (Vatican City State),Hoffmanfort,4180.05
+796,AC898,12,2023-03-27,Sudan,Lake Nicole,2044.92
+797,VS329,59,2023-06-27,Lebanon,West Daleberg,15915.84
+798,AC832,2,2023-04-05,Israel,Loweview,227.08
+799,CR571,13,2023-08-27,Ukraine,Pittsside,1532.44
+800,AC164,27,2023-02-13,Gabon,Tarafort,2414.34
+801,CB531,11,2023-05-14,Senegal,Bradshawchester,619.1899999999999
+802,CB553,15,2023-01-23,Congo,North David,2822.25
+803,AC943,17,2023-08-18,Luxembourg,West Patricia,2714.22
+804,AC970,10,2023-07-23,Serbia,Matthewchester,1976.4
+805,CF593,39,2023-04-18,French Southern Territories,West Adamfurt,5414.76
+806,VS317,55,2023-02-15,Mozambique,South Terryland,9422.6
+807,VS955,43,2023-12-15,Guatemala,South Joshua,6967.719999999999
+808,CR954,4,2023-01-29,Seychelles,Port Jefferyside,566.96
+809,AS976,2,2023-02-17,Moldova,Paulland,544.9
+810,VS725,28,2023-06-01,Argentina,Kerryhaven,2474.92
+811,VT712,17,2023-04-17,Taiwan,Whiteside,2080.29
+812,VS849,72,2023-03-04,Argentina,East Amberchester,10869.84
+813,VT828,9,2023-08-21,Madagascar,Rodriguezmouth,1364.31
+814,VS809,10,2023-03-28,Ghana,South Susanville,2498.1
+815,VS195,26,2023-02-20,Mongolia,Mcdonaldmouth,6361.42
+816,AC343,37,2023-08-15,Tunisia,Nicolefort,2817.18
+817,AS119,26,2023-12-23,Saudi Arabia,North Paulshire,5875.22
+818,CB507,41,2023-03-06,Greenland,Anthonyborough,7161.469999999999
+819,VS642,72,2023-02-16,France,Valenzuelafurt,10686.24
+820,CB177,61,2023-01-29,Sierra Leone,West Michael,8882.82
+821,CR298,16,2023-12-11,Tajikistan,Scottport,1550.08
+822,CB286,4,2023-04-06,Liberia,Port Rachelstad,415.24
+823,VS145,7,2023-03-17,Western Sahara,Robertsside,1888.53
+824,AC725,0,2023-06-28,Indonesia,Lucasberg,0.0
+825,AC397,44,2023-07-03,Maldives,North Lauramouth,6299.04
+826,CB889,23,2023-01-17,Congo,East Ernestland,4738.46
+827,VS904,12,2023-12-05,Lesotho,Delgadoville,735.84
+828,VS216,68,2023-08-05,Faroe Islands,West Bradyborough,11036.4
+829,VS161,18,2023-09-14,India,New Donald,4034.34
+830,AS635,34,2023-04-15,Niger,Charlesland,6030.92
+831,VS893,34,2023-05-07,Northern Mariana Islands,Port Emily,3141.26
+832,VS576,1,2023-01-30,Chile,Lake Daniel,200.4
+833,VT533,21,2023-08-21,Georgia,South Jamesside,1135.05
+834,CF433,14,2023-05-26,Tonga,South Melaniestad,3804.78
+835,CB907,60,2023-05-09,Cameroon,Lake Margaret,6169.2
+836,VT245,27,2023-11-23,United Arab Emirates,North Amyborough,7065.360000000001
+837,AC590,11,2023-10-05,Oman,Brighttown,1740.86
+838,VT663,12,2023-09-03,Djibouti,Sarastad,2097.36
+839,VS653,41,2023-06-11,Palestinian Territory,South Jessica,7934.73
+840,AC132,18,2023-12-16,Cocos (Keeling) Islands,Patrickmouth,3559.5
+841,VS102,68,2023-01-22,New Caledonia,Johnsonfurt,16309.8
+842,CF493,27,2023-12-26,Germany,West Susan,4863.78
+843,CF987,11,2023-06-10,Thailand,Lake Timothyside,1625.91
+844,VS586,26,2023-10-05,South Georgia and the South Sandwich Islands,South Kristineburgh,4138.68
+845,VS545,15,2023-07-02,Holy See (Vatican City State),Fisherborough,1227.0
+846,VT179,20,2023-01-14,Mali,Christineville,4565.6
+847,VS924,7,2023-08-29,Vietnam,Jeremyhaven,1251.32
+848,CR280,29,2022-12-31,Sao Tome and Principe,Valeriefort,8666.94
+849,VS580,52,2023-12-13,Gabon,Barronfort,9628.84
+850,AC852,11,2023-04-20,Turkmenistan,Lake Denise,1601.16
+851,AC559,2,2023-02-21,United States of America,Lake Glennburgh,255.92
+852,VS214,6,2023-11-17,Kenya,Danashire,357.29999999999995
+853,AC394,24,2023-12-31,Congo,Kleinville,1585.6799999999998
+854,VS148,18,2023-01-07,Wallis and Futuna,Browntown,3961.08
+855,VT515,1,2023-07-19,Turkey,South Nicoleport,237.85
+856,CF236,89,2023-09-26,Iraq,Codychester,10356.93
+857,CR522,94,2023-04-20,Palau,Makaylatown,24628.94
+858,VT851,30,2023-06-27,Mexico,West Beverly,3045.6
+859,CF240,16,2023-06-19,Thailand,Lake Deanna,3628.16
+860,AC832,18,2023-12-14,Cape Verde,Henryside,4118.9400000000005
+861,AC495,4,2023-08-26,Libyan Arab Jamahiriya,Jamesborough,524.24
+862,AS437,27,2023-08-21,Reunion,Port Andrea,8070.299999999999
+863,AC144,12,2023-04-27,Aruba,West James,2658.96
+864,CR673,23,2023-06-01,Timor-Leste,Matthewborough,1618.28
+865,VS409,7,2023-04-01,Solomon Islands,Lake Dianeberg,1922.27
+866,CR402,7,2023-06-26,Guinea,Paultown,361.2
+867,CB235,22,2023-02-16,Palestinian Territory,Port Connie,3707.44
+868,CR379,6,2023-06-11,Burundi,Frenchville,988.08
+869,AC509,17,2023-01-18,United States Minor Outlying Islands,West Barbara,4039.2
+870,CR602,1,2023-11-07,Jordan,Reidtown,59.25
+871,VT158,37,2023-10-02,Pakistan,Lake Kenneth,5530.759999999999
+872,AC962,27,2023-06-04,Saint Helena,Port Neilton,7448.76
+873,CF205,33,2023-03-17,Sweden,Holtville,7966.86
+874,VS324,1,2023-01-28,United Arab Emirates,Veronicaport,175.84
+875,AC562,8,2023-09-11,Taiwan,East Kaitlin,1189.76
+876,AC510,9,2023-09-30,Turkmenistan,West Terri,1042.56
+877,AC785,0,2023-04-30,Bahrain,Michellestad,0.0
+878,VS727,20,2023-06-12,Mauritius,Bridgestown,3140.6
+879,AC642,63,2023-09-30,Uganda,North Michaelberg,7033.950000000001
+880,AS879,7,2023-12-28,Turkey,Jasontown,1296.89
+881,AC934,3,2023-08-25,Marshall Islands,West Carol,207.93
+882,AS178,3,2023-07-15,Iceland,South Anthony,775.23
+883,AS162,55,2023-09-07,Central African Republic,Martinezbury,10364.75
+884,AC984,80,2023-04-13,Korea,New Michelefurt,7180.8
+885,AC383,16,2023-01-21,Spain,Millerberg,4789.44
+886,AS731,17,2023-01-31,Kyrgyz Republic,West Kimberly,1403.01
+887,VT806,12,2023-08-17,Greece,Johnberg,3413.76
+888,CR336,54,2023-03-11,Chile,South Matthew,12703.5
+889,VS116,1,2023-10-20,Comoros,North Tammyton,182.44
+890,CB757,1,2023-11-15,Puerto Rico,Leeburgh,241.71
+891,VS963,6,2023-01-30,Algeria,Theresamouth,1054.44
+892,AC134,58,2023-04-21,Algeria,Garciaton,8276.599999999999
+893,VS998,35,2023-01-02,Chad,East Rubenborough,10425.8
+894,CF379,44,2023-09-16,Thailand,Cooperview,9643.48
+895,CB890,24,2023-03-18,Niue,Daltonport,2227.68
+896,VT990,7,2023-01-31,Belarus,Lake John,1883.98
+897,CR945,13,2023-09-10,Uganda,East Susanville,979.29
+898,AC405,8,2023-09-25,Isle of Man,Lake Daisyville,2099.92
+899,CF258,63,2023-04-21,Suriname,Jesseland,15846.39
+900,CR901,5,2023-04-11,Fiji,New Benjaminshire,288.55
+901,CR261,14,2023-07-10,Colombia,West Timothyfurt,3057.74
+902,CR517,13,2023-02-20,Ethiopia,Harrisburgh,3037.84
+903,CB526,18,2023-07-02,Guatemala,West Kevinborough,4879.8
+904,VS278,64,2023-06-25,Ireland,East Matthew,13174.4
+905,AS935,33,2023-09-01,Japan,Lake Logan,6776.55
+906,VS889,45,2023-08-24,Colombia,Port Jason,4369.05
+907,CR655,5,2023-02-26,Oman,Mendozaberg,1037.0
+908,VT230,37,2023-05-08,Cyprus,Jonesside,8425.27
+909,VS285,51,2023-09-08,Saint Kitts and Nevis,Gordontown,11392.89
+910,VS590,27,2023-09-21,Mozambique,Ericstad,4973.13
+911,CF471,10,2023-08-01,Isle of Man,Wigginsfort,2993.2
+912,AC142,14,2023-04-11,Comoros,Pierceton,1157.66
+913,AS291,42,2023-06-16,Greece,West Christine,11151.42
+914,VT954,1,2023-06-20,Liberia,Nicholsonberg,134.28
+915,AC472,0,2023-04-14,Antarctica (the territory South of 60 deg S),Port Jerry,0.0
+916,CF382,2,2023-10-06,Kiribati,Smithstad,453.48
+917,VS719,7,2023-06-03,French Southern Territories,Port Megan,1965.6
+918,VS624,54,2023-11-11,Benin,Joneschester,12873.06
+919,AC725,12,2023-06-27,Montenegro,East Rachelview,824.64
+920,CF507,50,2023-09-18,Canada,New Kevinside,5843.5
+921,AS447,30,2023-06-10,Micronesia,Michaelton,5581.8
+922,AC644,5,2023-07-30,Austria,Johnsonmouth,557.4499999999999
+923,VT281,0,2023-02-12,French Southern Territories,Moyerton,0.0
+924,AS391,14,2023-07-06,China,Brianberg,1850.24
+925,VS197,35,2023-02-02,Pakistan,Port Juanview,3365.6
+926,VT162,43,2023-03-19,Grenada,West Michaeltown,4514.14
+927,CF337,33,2023-09-13,Taiwan,Lopezchester,6809.22
+928,AS132,7,2023-06-11,Mayotte,West Davidstad,576.66
+929,VT969,33,2023-07-12,Papua New Guinea,South Jeffreyburgh,6181.56
+930,AS677,68,2023-01-04,Guinea,Port Markport,12709.2
+931,AC142,22,2023-09-01,Kenya,East Johnburgh,3370.6200000000003
+932,CF347,23,2023-01-04,Jamaica,New Veronica,1869.9
+933,CR226,63,2023-11-29,Solomon Islands,East Teresa,8303.400000000001
+934,VS832,16,2023-07-12,Holy See (Vatican City State),New Harold,2414.56
+935,VT471,10,2023-05-23,Armenia,Davisview,1004.3
+936,AS897,10,2023-08-27,Ukraine,West Tylerberg,1800.2
+937,AC161,4,2023-06-28,Bosnia and Herzegovina,Lake Tiffanyfurt,364.08
+938,AC400,11,2023-10-24,Saint Barthelemy,Heatherbury,1067.77
+939,AC609,16,2023-01-08,Turkmenistan,Harveytown,2181.92
+940,CF890,11,2023-12-16,Norway,Scottberg,1540.4399999999998
+941,AC946,1,2023-04-28,Congo,New Jose,283.43
+942,CB854,6,2023-12-30,Bouvet Island (Bouvetoya),West Robertmouth,612.84
+943,CR972,28,2023-09-15,France,West Sarahburgh,4442.759999999999
+944,AC891,27,2023-11-18,Kazakhstan,West Meganhaven,5946.4800000000005
+945,VT454,6,2023-03-15,Czech Republic,Tuckermouth,1576.6799999999998
+946,CF919,58,2023-03-15,Philippines,Karenville,13990.18
+947,VT573,32,2023-04-14,Eritrea,Lake Kylechester,7010.24
+948,CB324,1,2023-04-01,Liberia,West Sheilamouth,100.29
+949,AC351,34,2023-01-26,Congo,Mclaughlinstad,5784.08
+950,AC440,26,2023-01-11,Guinea-Bissau,Lake Timothyborough,3383.12
+951,CF447,44,2023-08-15,Jersey,West Raymondbury,7491.0
+952,VT188,37,2023-02-22,Congo,Jacquelineburgh,7648.27
+953,VS666,29,2023-07-29,Puerto Rico,New Joseph,4501.96
+954,CR857,1,2023-10-30,Armenia,Williambury,82.43
+955,CB851,5,2023-04-13,Spain,West Julianhaven,844.0999999999999
+956,CR674,14,2023-01-22,Montserrat,Johnsonstad,2634.24
+957,VS404,33,2023-01-11,Timor-Leste,South Nancy,3575.88
+958,AS913,19,2023-10-05,Papua New Guinea,East Markfort,3664.91
+959,AC855,0,2023-03-30,Jordan,Lake Codyfort,0.0
+960,VT896,40,2023-04-18,Andorra,West Michael,9684.0
+961,CB335,32,2023-08-14,Costa Rica,Brownborough,6251.84
+962,CR508,73,2023-12-26,Vanuatu,Shannontown,21635.01
+963,AC220,94,2023-05-30,Benin,New Sarah,15749.7
+964,VT499,54,2023-04-15,Korea,West Monica,12018.78
+965,AS571,5,2023-06-28,Georgia,Castroshire,1342.25
+966,VS581,0,2023-11-29,Guadeloupe,Wileyfurt,0.0
+967,CF519,32,2023-11-30,Niue,Jamietown,6751.04
+968,AS156,90,2023-12-19,Syrian Arab Republic,Nathanborough,19377.9
+969,VT371,37,2023-05-03,Tajikistan,New Brendatown,5062.34
+970,AC133,12,2023-07-12,South Georgia and the South Sandwich Islands,West Alisonport,3247.08
+971,VT601,25,2023-07-22,Senegal,Carterville,3523.7499999999995
+972,CB842,2,2023-04-13,Slovenia,North Jodymouth,158.54
+973,VT233,21,2023-02-07,Brazil,Port Kenneth,1832.25
+974,CF547,26,2023-12-22,Venezuela,Port John,6866.860000000001
+975,CF840,0,2023-06-04,Albania,Tiffanyton,0.0
+976,AS973,3,2023-08-31,Nauru,Lake Carrieburgh,889.74
+977,CR839,26,2023-11-27,Greece,Reidview,1935.1800000000003
+978,VT889,12,2023-08-04,San Marino,Tammyborough,2000.04
+979,AC258,8,2023-06-01,Isle of Man,Jimmyfort,2375.36
+980,AS519,15,2023-03-02,Vanuatu,Lake Amymouth,2319.3
+981,AC460,20,2023-01-18,Senegal,Jeffreyborough,1125.2
+982,VS664,4,2023-09-04,Zimbabwe,West Angela,681.6
+983,VS809,11,2023-10-13,Gibraltar,West Brett,1658.8000000000002
+984,VT418,58,2023-10-10,Vietnam,Angelamouth,4077.4
+985,CR287,20,2023-10-23,Palau,New Taylorside,5423.0
+986,VS794,12,2023-05-25,Svalbard & Jan Mayen Islands,Lake Dianaville,1655.52
+987,VT511,32,2023-08-18,Lebanon,Johnsonchester,3581.76
+988,CF490,32,2023-07-14,Armenia,Aaronmouth,9031.36
+989,CF223,13,2023-05-21,Barbados,West Christinestad,2960.88
+990,CR181,25,2023-06-08,Gambia,Schultzside,5210.5
+991,VT939,6,2023-05-25,Romania,Port Davidtown,1185.9
+992,AC865,46,2023-03-21,Germany,Evansshire,8359.12
+993,VS450,21,2023-05-26,Bolivia,Weaverstad,3932.04
+994,AC694,1,2023-07-19,Vanuatu,South Michael,203.88
+995,CF998,2,2023-12-02,Jordan,Hayeschester,386.8
+996,CR818,22,2023-08-14,Bermuda,South Jacqueline,4904.46
+997,VS659,16,2023-01-19,Macao,Elizabethhaven,2993.76
+998,CB752,2,2023-11-11,Latvia,Port Cynthiastad,582.08
+999,CB651,48,2023-08-09,Burkina Faso,Jamesfurt,2848.8
+1000,AC253,22,2023-10-13,Iraq,Lake Kathyhaven,5697.34
