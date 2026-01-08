@@ -1,4 +1,4 @@
-# 🎓 Projet de Fin de Formation – Datasuits
+# 🎓 Projet de Fin de Formation – Datasuits - Panthéon Sorbonne
 
 Ce projet vise à mettre en œuvre l’ensemble des compétences acquises au cours de la formation Datasuits, en appliquant une démarche analytique rigoureuse à un cas réel. Il s’agit de démontrer notre capacité à transformer des données brutes en recommandations stratégiques à forte valeur ajoutée pour la prise de décision.
 
