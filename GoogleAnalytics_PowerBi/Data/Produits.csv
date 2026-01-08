@@ -1,0 +1,6 @@
+ProduitID,Nom,Catégorie,Prix,Stock
+1,T-shirt Bio,Haut,29.99,150
+2,Jean Recyclé,Bas,59.99,80
+3,Veste Chanvre,Veste,89.99,50
+4,Robe Coton Bio,Robe,49.99,100
+5,Sweat Bambou,Haut,69.99,60
