@@ -1,0 +1,138 @@
+# 📘 KPI Definition — Finance Performance Project
+
+Ce document regroupe l’ensemble des KPI utilisés dans le dashboard Power BI du projet **Finance Performance Project**.  
+Chaque indicateur inclut : définition, formule, source de données et objectif business.
+
+---
+
+## 📊 1. KPI de Rentabilité
+
+### **1. Revenue**
+- **Définition :** Total des ventes réalisées.
+- **Formule :** Somme(Revenue)
+- **Source :** `sales.csv`
+- **Objectif :** Mesurer l’activité commerciale globale.
+
+---
+
+### **2. Gross Margin** *(si COGS ajouté ultérieurement)*
+- **Définition :** Marge brute générée par les ventes.
+- **Formule :** (Revenue – COGS) / Revenue
+- **Source :** `sales.csv`, `cogs.csv` (optionnel)
+- **Objectif :** Évaluer la rentabilité commerciale.
+
+---
+
+### **3. EBITDA**
+- **Définition :** Résultat opérationnel avant amortissements.
+- **Formule :** Revenue – OPEX – HR Costs
+- **Source :** `sales.csv`, `expenses.csv`, `hr_costs.csv`
+- **Objectif :** Mesurer la performance opérationnelle.
+
+---
+
+### **4. Operating Income**
+- **Définition :** Résultat opérationnel après amortissements.
+- **Formule :** EBITDA – Amortissements (si ajoutés)
+- **Source :** Calcul interne
+- **Objectif :** Indicateur clé de performance financière.
+
+---
+
+## 💰 2. KPI de Coûts
+
+### **5. Total OPEX**
+- **Définition :** Total des dépenses opérationnelles.
+- **Formule :** Somme(Amount)
+- **Source :** `expenses.csv`
+- **Objectif :** Suivre les coûts et détecter les dérives.
+
+---
+
+### **6. OPEX vs Budget**
+- **Définition :** Écart entre dépenses réelles et budget.
+- **Formule :** OPEX – Opex_Budget
+- **Source :** `expenses.csv`, `budget.csv`
+- **Objectif :** Contrôle budgétaire.
+
+---
+
+### **7. HR Total Cost**
+- **Définition :** Masse salariale totale.
+- **Formule :** Salary + Bonus + Social_Charges + Training_Cost
+- **Source :** `hr_costs.csv`
+- **Objectif :** Suivre l’évolution des coûts RH.
+
+---
+
+### **8. HR Cost Ratio**
+- **Définition :** Poids de la masse salariale dans le CA.
+- **Formule :** HR Total Cost / Revenue
+- **Source :** `hr_costs.csv`, `sales.csv`
+- **Objectif :** Mesurer l’efficacité opérationnelle.
+
+---
+
+## 🛒 3. KPI Commerciaux
+
+### **9. Revenue by Product / Segment / Region**
+- **Définition :** CA ventilé par dimension.
+- **Formule :** Somme(Revenue)
+- **Source :** `sales.csv`
+- **Objectif :** Identifier les moteurs de croissance.
+
+---
+
+### **10. Average Basket (Panier Moyen)**
+- **Définition :** Valeur moyenne d’une transaction.
+- **Formule :** Revenue / Nombre de transactions
+- **Source :** `sales.csv`
+- **Objectif :** Mesurer la qualité des ventes.
+
+---
+
+### **11. Monthly Growth Rate**
+- **Définition :** Taux de croissance du CA.
+- **Formule :** (Revenue_m – Revenue_(m-1)) / Revenue_(m-1)
+- **Source :** `sales.csv`
+- **Objectif :** Suivre la dynamique commerciale.
+
+---
+
+## 💵 4. KPI de Trésorerie
+
+### **12. Cash-In**
+- **Définition :** Entrées de trésorerie.
+- **Formule :** Somme(Cash_In)
+- **Source :** `cashflow.csv`
+- **Objectif :** Suivre les encaissements.
+
+---
+
+### **13. Cash-Out**
+- **Définition :** Sorties de trésorerie.
+- **Formule :** Somme(Cash_Out)
+- **Source :** `cashflow.csv`
+- **Objectif :** Suivre les décaissements.
+
+---
+
+### **14. Cash Burn Rate**
+- **Définition :** Dépenses nettes mensuelles.
+- **Formule :** Cash_Out – Cash_In
+- **Source :** `cashflow.csv`
+- **Objectif :** Mesurer la consommation de cash.
+
+---
+
+### **15. Cash Runway**
+- **Définition :** Nombre de mois avant rupture de trésorerie.
+- **Formule :** Cash_Reserve / Burn_Rate
+- **Source :** Calcul interne
+- **Objectif :** Anticiper les risques de liquidité.
+
+---
+
+## 📘 Notes
+- Tous les KPI sont implémentés en **DAX** dans Power BI.
+- Les définitions sont alignées avec les standards de contrôle de gestion.
