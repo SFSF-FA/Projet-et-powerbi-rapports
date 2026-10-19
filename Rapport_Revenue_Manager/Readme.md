@@ -239,23 +239,26 @@ Key insight:
 
 ## 📸 Dashboard Preview
 
-> Add screenshots of each dashboard page here.
+<img width="674" height="127" alt="Capture d&#39;écran 2026-10-19 170503" src="https://github.com/user-attachments/assets/bbb0c9ef-906d-4370-a27d-20d5a714def6" />
+
 
 ### Revenue & Occupancy
 
-images/page1.png
+> <img width="458" height="258" alt="Capture d&#39;écran 2026-10-19 112636" src="https://github.com/user-attachments/assets/2e26333e-bf85-4783-91bc-6d44b83bfd42" />
 
 ### Commercial Performance
 
-images/page2.png
+<img width="625" height="269" alt="Capture d&#39;écran 2026-10-19 115045" src="https://github.com/user-attachments/assets/83d7b46f-2195-493d-8fc6-3c197fb10034" />
 
 ### Market Positioning
 
-images/page3.png
+<img width="493" height="282" alt="Capture d&#39;écran 2026-10-19 121640" src="https://github.com/user-attachments/assets/fc954280-30a2-44e7-a421-17c6953361ce" />
+
 
 ### Profitability
 
-images/page4.png
+<img width="466" height="278" alt="Capture d&#39;écran 2026-10-19 122629" src="https://github.com/user-attachments/assets/be03005d-77b3-4ebe-84e9-57ff73438b7d" />
+
 
 ---
 
